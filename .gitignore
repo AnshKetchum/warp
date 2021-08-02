@@ -351,3 +351,4 @@ MigrationBackup/
 
 # Config
 storage/config
+.env
